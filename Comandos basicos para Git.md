@@ -2,7 +2,7 @@
 
 ##### Agora você vai poder ter os códigos que tanto precisa bem na sua mão
 
-![](https://cdn.pixabay.com/photo/2019/11/27/14/39/laptop-4657099_960_720.jpg)https://cdn.pixabay.com/photo/2019/11/27/14/39/laptop-4657099_960_720.jpg
+![](https://cdn.pixabay.com/photo/2019/11/27/14/39/laptop-4657099_960_720.jpg)
 
 Então vamos lá!
 
