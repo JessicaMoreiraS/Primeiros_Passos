@@ -6,7 +6,7 @@
 
 Então vamos lá!
 
--
+--
 
 Alguns comandos que você pode usar no Git:
 
@@ -22,7 +22,7 @@ Alguns comandos que você pode usar no Git:
 
 6.  rmdir: Deleta toda a pasta.
 
--
+--
 
 Também há os comandos em que você deve usar o nome do Git e logo após o comando específico, vamos ver alguns...
 
@@ -44,7 +44,7 @@ Também há os comandos em que você deve usar o nome do Git e logo após o coma
 
 9. git merge: Mescla dois arquivos.
 
--
+--
 
 Agora vamos ver algumas dicas que ajudam muito na hora de usar esses comandos!
 
