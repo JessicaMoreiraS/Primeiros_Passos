@@ -6,6 +6,8 @@
 
 Então vamos lá!
 
+-
+
 Alguns comandos que você pode usar no Git:
 
 1. ls: Lista o conteudo da pasta.
@@ -20,7 +22,7 @@ Alguns comandos que você pode usar no Git:
 
 6.  rmdir: Deleta toda a pasta.
 
-
+-
 
 Também há os comandos em que você deve usar o nome do Git e logo após o comando específico, vamos ver alguns...
 
@@ -42,21 +44,21 @@ Também há os comandos em que você deve usar o nome do Git e logo após o coma
 
 9. git merge: Mescla dois arquivos.
 
-
+-
 
 Agora vamos ver algumas dicas que ajudam muito na hora de usar esses comandos!
 
 - Para **git add** você pode usar o _Nome do seu aquivo_ ou pode usar (*) ou (.) para simplesmente adicionar todas as alterações feitas de uma só vez  :-O.
-
-Ex: git add * ou git add .
+  
+  Ex: git add * ou git add .
 
 - Na hora de fazer un **git add** você pode colocar um _apelido_ para não precisar ficar utilizando sempre a URL, e pode usar esse apelido na hora de dar um **git pull** ou **git push** também.
-
-Ex: git add apelido https... ou git pull apelido
+  
+  Ex: git add apelido https... ou git pull apelido
 
 - Quando for fazer um **git commit** você pode colocar _-m "mensagem"_, assim você colocará uma mensagem descrevendo brevemente o que fez naquele commit.
-
-Ex: git commit -m "mensagem"
+  
+  Ex: git commit -m "mensagem"
 
 
 
