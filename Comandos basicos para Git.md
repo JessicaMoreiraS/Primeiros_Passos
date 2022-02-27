@@ -2,16 +2,14 @@
 
 ##### Agora você vai poder ter os códigos que tanto precisa bem na sua mão
 
-![](C:\Users\jessi\Desktop\Imagens\laptop-ge2b41bea8_1920.jpg)
+![](https://cdn.pixabay.com/photo/2019/11/27/14/39/laptop-4657099_960_720.jpg)https://cdn.pixabay.com/photo/2019/11/27/14/39/laptop-4657099_960_720.jpg
 
 Então vamos lá!
 
-Código | O que faz
 
-:--------- | ----------:
 
-ls           | Lista o conteudo da pasta
+1. ls: Lista o conteudo da pasta
 
-clear     | Limpa a tela
+2. clear: Limpa a tela
 
-mkdir   | Cria novo diretório
+3. mkdir: Cria novo diretório
